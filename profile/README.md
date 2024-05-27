@@ -43,13 +43,13 @@ Together, let's build a safer and more secure digital world. Welcome to **True C
 -->
 
 
-# True Cyber Tips
+# True Cyber Practice
 
-Welcome to **True Cyber Tips** – your go-to hub for cutting-edge cybersecurity knowledge, hands-on demos, and proof-of-concept (PoC) projects. We're a community of cyber pros, enthusiasts, and learners committed to making the digital world a safer place.
+Welcome to **True Cyber Practice** – your go-to hub for cutting-edge cybersecurity knowledge, hands-on demos, and proof-of-concept (PoC) projects. We're a community of cyber pros, enthusiasts, and learners committed to making the digital world a safer place.
 
 ## What We're About
 
-In the fast-paced world of cyber threats, staying ahead of the game is key. **True Cyber Tips** is all about sharing real-world tips, killer techniques, and practical solutions. From straightforward advice to detailed walkthroughs, we’ve got you covered.
+In the fast-paced world of cyber threats, staying ahead of the game is key. **True Cyber Practice** is all about sharing real-world tips, killer techniques, and practical solutions. From straightforward advice to detailed walkthroughs, we’ve got you covered.
 
 ## What You'll Find Here
 
@@ -61,6 +61,8 @@ In the fast-paced world of cyber threats, staying ahead of the game is key. **Tr
 ## Topics We Dive Into
 
 - Threat Detection and Prevention
+- SOC Automation
+- PlayBooks & RunBooks
 - Network Security
 - Endpoint Protection
 - Data Encryption and Privacy
@@ -72,15 +74,15 @@ In the fast-paced world of cyber threats, staying ahead of the game is key. **Tr
 
 ## Dive In
 
-- Explore our [Repositories](https://github.com/TrueCyberTips) for a treasure trove of resources.
+- Explore our [Repositories](https://github.com/TrueCyberPractice) for a treasure trove of resources.
 
 ## Connect with Us
 
-- [GitHub](https://github.com/TrueCyberTips)
+- [GitHub](https://github.com/TrueCyberPractice)
 <!--
 - [Twitter](https://twitter.com/TrueCyberTips)
 - [LinkedIn](https://linkedin.com/company/TrueCyberTips)
 -->
 
-Let’s make the digital world safer, smarter, and cooler. Welcome to **True Cyber Tips**!
+Let’s make the digital world safer, smarter, and cooler. Welcome to **TrueCyberPractice**!
 
